@@ -6,23 +6,23 @@ The Visual Studio Snippets are into *"C:\Users\\%USERPROFILE%\Documents\Visual S
 
 | Shortcut | Description |
 | -------- | ---- |
-| `gs` | get set |
-| `pb` | public bool |
-| `pd` | public DateTime |
-| `pi` | public int |
-| `ps` | public string |
-| `pdb` | public static bool |
-| `pdd` | public static DateTime |
-| `pdi` | public static int |
-| `pds` | public static string |
+| `gs` | { get; set; } |
+| `pb` | public bool myVar { get; set: } |
+| `pd` | public DateTime myVar { get; set: } |
+| `pi` | public int myVar { get; set: } |
+| `ps` | public string myVar { get; set: } |
+| `pdb` | public static bool myVar { get; set: } |
+| `pdd` | public static DateTime myVar { get; set: } |
+| `pdi` | public static int myVar { get; set: } |
+| `pds` | public static string myVar { get; set: } |
 
 
 ## Snippets Javascript
 
 | Shortcut | Description |
 | -------- | ---- |
-| `jssrc` | import file javascript |
-| `jqmin` | import jquery library |
+| `jssrc` | <script type="text/javascript" src="<%= ResolveClientUrl("~/Scripts/myscript.js") %>"></script> |
+| `jqmin` | <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script> |
 
 
 ## Snippets jQuery
