@@ -1,10 +1,10 @@
 # Visual Studio Snippets<br>
 
 ## Installing
-The Visual Studio Snippets are into *C:\Users\\%USERPROFILE%\Documents\Visual Studio 2017\Code Snippets*.<br>
+The Visual Studio Snippets are into *"C:\Users\\%USERPROFILE%\Documents\Visual Studio 2017\Code Snippets"*.<br>
 
 Example: installing C# snippets.<br>
-Copy the content of *Code Snippets/Visual C#/My Code Snippets/* into your Visual Studio folder.
+Copy the content of *"Code Snippets/Visual C#/My Code Snippets/"* into your Visual Studio folder.
 
 ## How Use
 From Visual Studio type for example ps, and the snippet appears.
