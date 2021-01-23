@@ -2,7 +2,6 @@
 
 ## Installing
 The Visual Studio Snippets are into *C:\Users\\%USERPROFILE%\Documents\Visual Studio 2017\Code Snippets*.<br>
-Copy the content of folder "My Code Snippets" into the same language code folder.
 
 ## How Use
 From Visual Studio type for example ps, and the snippet appears.
@@ -21,4 +20,21 @@ From Visual Studio type for example ps, and the snippet appears.
 | `pdi` | public static int |
 | `pds` | public static string |
 
+
+## Summary Javascript
+
+| Shortcut | Description |
+| -------- | ---- |
+| `jssrc` | import file javascript |
+| `jqmin` | import jquery library |
+
+
+## Summary jQuery
+
+| Shortcut | Description |
+| -------- | ---- |
+| `jq` | ready structure |
+| `jqclick` | click method |
+| `jqchange` | change method |
+| `jqajax` | ajax structure |
 
