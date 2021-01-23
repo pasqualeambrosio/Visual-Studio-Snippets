@@ -22,7 +22,7 @@ The Visual Studio Snippets are into *"C:\Users\\%USERPROFILE%\Documents\Visual S
 | Shortcut | Description |
 | -------- | ---- |
 | `jssrc` | <script type="text/javascript" src="<%= ResolveClientUrl("~/Scripts/myscript.js") %>"></script> |
-| `jqmin` | <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script> |
+| `jqmin` | `<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>` |
 
 
 ## Snippets jQuery
