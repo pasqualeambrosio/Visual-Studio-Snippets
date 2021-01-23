@@ -1,6 +1,6 @@
 # Visual Studio Snippets<br>
 
-## Installing
+## Info
 The Visual Studio Snippets are into *C:\Users\\%USERPROFILE%\Documents\Visual Studio 2017\Code Snippets*.<br>
 
 ## How Use
