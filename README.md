@@ -2,7 +2,7 @@
 
 The Visual Studio Snippets are into *"C:\Users\\%USERPROFILE%\Documents\Visual Studio 2017\Code Snippets"*.<br>
 
-## Summary Visual C#
+## Snippets Visual C#
 
 | Shortcut | Description |
 | -------- | ---- |
@@ -17,7 +17,7 @@ The Visual Studio Snippets are into *"C:\Users\\%USERPROFILE%\Documents\Visual S
 | `pds` | public static string |
 
 
-## Summary Javascript
+## Snippets Javascript
 
 | Shortcut | Description |
 | -------- | ---- |
@@ -25,7 +25,7 @@ The Visual Studio Snippets are into *"C:\Users\\%USERPROFILE%\Documents\Visual S
 | `jqmin` | import jquery library |
 
 
-## Summary jQuery
+## Snippets jQuery
 
 | Shortcut | Description |
 | -------- | ---- |
