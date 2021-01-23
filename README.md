@@ -1,10 +1,10 @@
-# C# Snippets<br>
+# Visual Stidio Snippets<br>
 
 ## Installing 
-Copy the .snippet files into folder *C:\Users\<USER>\Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets*
+Copy content of folder "My Code Snippets" into *C:\Users\<USER>\Documents\Visual Studio 2017\Code Snippets\<CODE>*
 
 ## How Use
-From visual studio type for example ps, and the snippet appears.
+From Visual Studio type for example ps, and the snippet appears.
 
 ## Summary
 
