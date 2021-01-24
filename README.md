@@ -11,10 +11,10 @@ The Visual Studio Snippets are into *"C:\Users\\%USERPROFILE%\Documents\Visual S
 | `pd` | public DateTime myVar { get; set: } |
 | `pi` | public int myVar { get; set: } |
 | `ps` | public string myVar { get; set: } |
-| `pdb` | public static bool myVar { get; set: } |
-| `pdd` | public static DateTime myVar { get; set: } |
-| `pdi` | public static int myVar { get; set: } |
-| `pds` | public static string myVar { get; set: } |
+| `psb` | public static bool myVar { get; set: } |
+| `psd` | public static DateTime myVar { get; set: } |
+| `psi` | public static int myVar { get; set: } |
+| `pss` | public static string myVar { get; set: } |
 
 
 ## Snippets Javascript
