@@ -15,6 +15,7 @@ The Visual Studio Snippets are into *"C:\Users\\%USERPROFILE%\Documents\Visual S
 | `psd` | public static DateTime myVar { get; set: } |
 | `psi` | public static int myVar { get; set: } |
 | `pss` | public static string myVar { get; set: } |
+| `singleton` | return Singleton class |
 
 
 ## Snippets Javascript
