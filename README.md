@@ -8,7 +8,7 @@ The Visual Studio Snippets are into *"C:\Users\\%USERPROFILE%\Documents\Visual S
 | -------- | ---- |
 | `gs` | { get; set; } |
 | `pb` | public bool myVar { get; set: } |
-| `pd` | public DateTime myVar { get; set: } |
+| `pdt` | public DateTime myVar { get; set: } |
 | `pi` | public int myVar { get; set: } |
 | `ps` | public string myVar { get; set: } |
 | `psb` | public static bool myVar { get; set: } |
